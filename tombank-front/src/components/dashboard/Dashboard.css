@@ -1,0 +1,8 @@
+.account-section {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.add-account-btn {
+  margin-top: 18px;
+}
