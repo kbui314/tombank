@@ -5,7 +5,7 @@ import TransModal from "../transmodal/TransModal";
 
 export default function AccountInfo(props) {
   const [showTransModal, setShowTransModal] = useState(false);
-
+  // const helloWorld;
   return (
     <div>
       <p>
